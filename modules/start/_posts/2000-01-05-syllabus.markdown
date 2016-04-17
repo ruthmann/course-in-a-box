@@ -1,8 +1,8 @@
 ---
-title: How will this course work?
----
+title: Course Syllabus
+----------------------
 
-# How will this course work?
+# Required texts and materials:
 
 {% comment %}
 ![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
